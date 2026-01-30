@@ -21,9 +21,11 @@ Tenho experiência no desenvolvimento de bots escaláveis para extração de dad
 
 ### 🛠️ Tecnologias e Ferramentas
 
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white) |
+| **Frameworks** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
+| **Cloud & Infra** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Análise** | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) |
+
 ---
-## 📊 GitHub Stats
-<div align="center">
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa.vercel.app/api?username=marcoslevi06&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa.vercel.app/api/top-langs/?username=marcoslevi06&layout=compact&langs_count=8&theme=radical" />
-</div>
