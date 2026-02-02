@@ -1,10 +1,11 @@
-# 👋 Marcos Levi
-
-### 🐍 Desenvolvedor Python | Engenharia de Dados  
-📍 Brasil • Remoto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcoslevi06-0A66C2?style=for-the-badge&logo=
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcoslevi06/">
+    <img src="https://img.shields.io/badge/LinkedIn-marcoslevi06-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:levi13.marcos@gmail.com">
+    <img src="https://img.shields.io/badge/Email-levi13.marcos%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 ---
 
 ## 🚀 Stacks & Tecnologias
