@@ -1,99 +1,44 @@
-
 # 👋 Marcos Levi
 
 ### 🐍 Desenvolvedor Python | Engenharia de Dados  
-📍 Brasil • Remoto  
-
-Desenvolvedor de Software com foco em **Python e Engenharia de Dados**, atuando no desenvolvimento de **pipelines de coleta, processamento e análise de dados**, além de **web scraping escalável** e **migração de infraestrutura entre nuvens (AWS ↔ GCP)**.  
-Background em **Economia**, com forte visão analítica orientada a dados e negócios.
+📍 Brasil • Remoto
 
 ---
 
-## 🧠 Sobre Mim
-
-| Campo | Descrição |
-|------|----------|
-| 👨‍💻 Nome | Marcos Levi |
-| 💼 Área | Backend Python / Engenharia de Dados |
-| 🎓 Formação | ADS (em andamento) • Economia |
-| ☁️ Cloud | AWS • Google Cloud |
-| 📊 Foco | Pipelines de dados, Web Scraping, Automação |
-| 🌎 Modelo | Remoto |
-
----
-
-## 🚀 Tech Stack
+## 🚀 Stacks Principais
 
 ### 🐍 Backend & Dados
-| Tecnologia | Uso |
-|----------|-----|
-| Python | Linguagem principal |
-| Django | APIs e sistemas web |
-| Pandas | Processamento e análise de dados |
-| SQL | Consultas e relatórios |
-| Selenium / Bs4 | Web Scraping |
-| Curl_Cffi | Contorno de anti-bots |
-
-### ☁️ Cloud & DevOps
-| Tecnologia | Uso |
-|----------|-----|
-| Google Cloud Run | Execução de pipelines |
-| Cloud Scheduler | Agendamentos |
-| Cloud Functions | Automações |
-| AWS S3 | Data Lake |
-| AWS EC2 / Batch | Processamento |
-| Docker | Containers |
-
-### 🗄️ Bancos de Dados
-| Banco | Experiência |
-|------|------------|
-| PostgreSQL | ✔️ |
-| MySQL | ✔️ |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
-
-## 💼 Experiência Profissional
-
-| Cargo | Empresa | Período | Atividades |
-|------|--------|---------|-----------|
-| Desenvolvedor Python | IA Consult - Proffer | Mai 2024 — Atual | Pipelines de dados, GCP, AWS, Scraping |
-| Dev Júnior | Grupo Infatec | Jun 2023 — Mai 2024 | Django, SQL, Sistemas educacionais |
-| Estagiário | Grupo Infatec | Jan 2023 — Jun 2023 | Manutenção de APIs e sistemas |
-
----
-
-## 🧪 Projetos & Atuação
 
 ### 🔍 Web Scraping
-| Segmento | Plataformas |
-|--------|-------------|
-| Farmácias | Raia Drogasil, Pague Menos, Panvel |
-| Marketplaces | OLX, Atacadão |
-| Delivery | iFood |
-| Apps | Farmácias App |
-
-**Características**
-- Processamento assíncrono
-- Contorno de bloqueios
-- Alta resiliência
-
-### 🏗️ Engenharia de Dados
-| Item | Descrição |
-|----|----------|
-| Orquestração | Cloud Run + Scheduler |
-| Armazenamento | AWS S3 |
-| Execução | Batch / Funções |
-| Linguagem | Python 3 |
-| Containers | Docker |
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge&logo=python&logoColor=white)
+![Async Processing](https://img.shields.io/badge/Async_Processing-FF9800?style=for-the-badge)
 
 ---
 
-## 🎓 Formação
+### ☁️ Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-| Curso | Instituição | Período |
-|-----|------------|---------|
-| ADS | Estácio de Sá | 2022 — 2025 |
-| Economia | UFPI | 2018 — 2024 |
+---
+
+### 🗄️ Bancos de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 🧠 Engenharia de Dados
+![ETL](https://img.shields.io/badge/ETL_Pipelines-4CAF50?style=for-the-badge)
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-0A66C2?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-9C27B0?style=for-the-badge)
 
 ---
 
@@ -104,14 +49,3 @@ Background em **Economia**, com forte visão analítica orientada a dados e neg�
 | 💼 LinkedIn | [linkedin.com/in/marcoslevi06](https://www.linkedin.com/in/marcoslevi06/) |
 | 💻 GitHub | [github.com/marcoslevi06](https://github.com/marcoslevi06) |
 | 📧 Email | levi13.marcos@gmail.com |
-
----
-
-## ⚡ Código que me define
-
-```python
-while True:
-    coletar_dados()
-    tratar_dados()
-    automatizar_processos()
-    aprender_algo_novo()
