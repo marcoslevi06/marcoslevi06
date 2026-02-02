@@ -2,6 +2,7 @@
 
 ### 🐍 Desenvolvedor Python | Engenharia de Dados  
 📍 Brasil • Remoto
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marcoslevi06-0A66C2?style=for-the-badge&logo=
 
 ---
