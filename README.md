@@ -2,11 +2,9 @@
 <p align="center">Backend & Dados — Python, Django, engenharia de dados</p>
 
 <p align="center">
-  <b>e-mail:</b>
-  <a href="mailto:levi13.marcos@gmail.com"><img src="https://img.shields.io/badge/-levi13.marcos%40gmail.com-8BA9D9?style=flat-square&logo=gmail&logoColor=1D2D50" alt="Email"/></a>
+  <a href="mailto:levi13.marcos@gmail.com"><img src="https://img.shields.io/badge/e--mail-levi13.marcos%40gmail.com-1D2D50?style=flat-square&logo=gmail&logoColor=1D2D50&labelColor=F0F4F7" alt="Email"/></a>
   &nbsp;&nbsp;
-  <b>linkedin:</b>
-  <a href="https://www.linkedin.com/in/marcoslevi06/"><img src="https://img.shields.io/badge/-marcoslevi06-8BA9D9?style=flat-square&logo=linkedin&logoColor=1D2D50" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/marcoslevi06/"><img src="https://img.shields.io/badge/linkedin-marcoslevi06-1D2D50?style=flat-square&logo=linkedin&logoColor=1D2D50&labelColor=F0F4F7" alt="LinkedIn"/></a>
 </p>
 
 ---
