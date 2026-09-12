@@ -30,8 +30,3 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
----
-
-### Atividade — commits dos últimos 6 meses
-
-![Commits dos últimos 6 meses](https://github-readme-activity-graph.vercel.app/graph?username=marcoslevi06&from=2026-03-12&to=2026-09-12&area=false&bg_color=1D2D50&color=F0F4F7&line=8BA9D9&point=3E5A99&hide_border=true&custom_title=Commits%20-%20%C3%9Altimos%206%20meses)
