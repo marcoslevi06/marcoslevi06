@@ -29,3 +29,9 @@
 **Bancos de dados**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+### Atividade
+
+![Atividade de commits](https://github-readme-activity-graph.vercel.app/graph?username=marcoslevi06&theme=minimal)
